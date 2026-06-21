@@ -1,56 +1,111 @@
-# Hi 👋 I'm Divakar Thilak
+<h1 align="center">Hi 👋, I'm Divakar Thilak</h1>
 
-### Software Test Engineer | Automation Testing Enthusiast | Learning AI for Software Testing
+<h3 align="center">
+Software Test Engineer | Automation Testing Enthusiast | Future AI-enabled SDET
+</h3>
 
-I'm a Software Test Engineer with 4+ years of experience in Manual Testing. Currently, I'm expanding my skills in Automation Testing, AI, and Backend Development with the goal of becoming an AI-enabled SDET.
+---
 
-## 🌱 Currently Learning
+## 👨‍💻 About Me
 
-- Selenium with Java
-- Playwright
-- Python
-- FastAPI
-- AI Agents & LLMs
-- Docker
-- Azure
+- 💼 Software Test Engineer with **4+ years of experience** in Manual Testing
+- 🌱 Currently learning **Selenium Java, Playwright, Python, FastAPI & AI Agents**
+- 🚀 Building real-world Automation & AI projects
+- 🎯 Goal: Become an **AI-enabled SDET** and work in a **Product-Based Company**
+- 🌍 Open to international opportunities
 
-## 🚀 Current Goal
+---
 
-Building a complete AI-powered Testing Platform that can:
+## 🚀 2026 Learning Journey
 
-- 📄 Read Requirement Documents
-- 📝 Generate Test Scenarios
-- ✅ Generate Test Cases
-- 🎭 Generate Playwright Scripts
-- ☕ Generate Selenium Java Scripts
-- 📊 Export Test Cases to Excel
+Currently focusing on
 
-## 🛠 Tech Stack
+- ✅ Selenium with Java
+- ✅ Playwright
+- ✅ REST Assured
+- ✅ Python
+- ✅ FastAPI
+- ✅ AI Agents
+- ✅ Docker
+- ✅ Azure
 
-**Testing**
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+- Java
+- Python (Learning)
+- SQL
+- JavaScript (Learning)
+
+### Testing
+
 - Manual Testing
 - Selenium (Learning)
 - Playwright (Learning)
 - REST Assured (Learning)
+- Postman
+- TestNG
 
-**Programming**
-- Java
-- Python (Learning)
-- SQL
+### Backend & AI
 
-**Backend & AI**
 - FastAPI (Learning)
 - AI Agents (Learning)
 - LangChain (Learning)
+- OpenAI API (Learning)
 
-**Tools**
+### Tools
+
 - Git
 - GitHub
-- Jira
 - Maven
+- Jira
+- Azure (Learning)
+- Docker (Learning)
 
-## 📚 2026 Learning Journey
+---
 
-I'm documenting my journey from Manual Tester to AI-enabled SDET by building real-world projects and sharing them on GitHub.
+## 📌 Current Projects
 
-⭐ Every repository represents a step in that journey.
+- 🔹 Selenium Java Automation Framework
+- 🔹 Playwright Automation Framework
+- 🔹 REST Assured API Framework
+- 🔹 AI Requirement Analyzer
+- 🔹 AI Test Case Generator
+- 🔹 AI Testing Platform *(In Progress)*
+
+---
+
+## 🎯 2026 Goals
+
+- ✔ Master Selenium Java
+- ✔ Master Playwright
+- ✔ Learn AI Agent Development
+- ✔ Build an AI Testing Platform
+- ✔ Contribute to Open Source
+- ✔ Land a Product-Based Company Role
+
+---
+
+## 📚 Currently Learning
+
+- Selenium
+- Playwright
+- Python
+- FastAPI
+- AI Agents
+- LangGraph
+- Docker
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/divakar-jakka-7b5817220/
+- Email: divakarjakka@gmail.com
+
+---
+
+⭐ *"Learning every day. Building every week. Improving continuously."*
