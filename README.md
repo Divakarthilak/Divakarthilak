@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Divakarthilak/assets/main/banner.png" alt="Divakar Thilak Banner" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Divakar Thilak</h1>
 
 <h3 align="center">
