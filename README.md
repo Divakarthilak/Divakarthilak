@@ -4,18 +4,19 @@
 <h1 align="center">Hi 👋, I'm Divakar Thilak</h1>
 
 <h3 align="center">
-Software Test Engineer | Automation Testing Enthusiast | Future AI-enabled SDET
+Software Test Engineer | Learning AI-Powered Test Automation | Java • Selenium • Playwright • Python
 </h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💼 Software Test Engineer with **4+ years of experience** in Manual Testing
-- 🌱 Currently learning **Selenium Java, Playwright, Python, FastAPI & AI Agents**
-- 🚀 Building real-world Automation & AI projects
-- 🎯 Goal: Become an **AI-enabled SDET** and work in a **Product-Based Company**
-- 🌍 Open to international opportunities
+💼 Software Test Engineer with 4+ years of experience in Software Testing
+🌱 Currently learning Selenium Java, Playwright, Python, FastAPI & AI Agents
+🚀 Building automation frameworks and AI-powered testing projects
+🎯 Goal: Build enterprise-grade automation frameworks and AI-powered testing solutions while continuously improving my engineering skills
+📍 Based in India 🇮🇳
+🌍 Open to global opportunities
 
 ---
 
